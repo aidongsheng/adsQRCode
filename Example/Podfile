@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'ADSQRCode_Example' do
+  pod 'ADSQRCode', :path => '../'
+
+  target 'ADSQRCode_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+  end
+end
