@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ADSQRCodeScanView.h"
 #import "ADSQRCodeViewController.h"
 
 FOUNDATION_EXPORT double ADSQRCodeVersionNumber;

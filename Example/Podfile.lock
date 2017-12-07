@@ -1,5 +1,5 @@
 PODS:
-  - ADSQRCode (0.1.0)
+  - ADSQRCode (0.2.0)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ADSQRCode: 4c1703b43ae59ddbd8eea6e46e3ee02de162e557
+  ADSQRCode: cbca1c1e6f0fd860e7954aecd7c105dc559a39b7
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
 
