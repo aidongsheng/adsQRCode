@@ -6,6 +6,7 @@
 //
 
 #import "ADSQRCodeViewController.h"
+#import "ADSQRCodeScanView.h"
 
 @interface ADSQRCodeViewController ()
 
@@ -16,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor purpleColor];
+    ADSQRCodeScanView * scanView = [[ADSQRCodeScanView alloc]initWithFrame:self.view.frame];
+    [self.view addSubview:scanView];
 }
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
