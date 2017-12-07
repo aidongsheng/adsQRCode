@@ -1,0 +1,6 @@
+framework module Pods_ADSQRCode_Example {
+  umbrella header "Pods-ADSQRCode_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,26 @@
+PODS:
+  - ADSQRCode (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - ADSQRCode (from `../`)
+  - FBSnapshotTestCase
+  - Kiwi
+
+EXTERNAL SOURCES:
+  ADSQRCode:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ADSQRCode: 4c1703b43ae59ddbd8eea6e46e3ee02de162e557
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: ac0d675432c887b3db6587d645e5bcfe7acf46e2
+
+COCOAPODS: 1.3.1

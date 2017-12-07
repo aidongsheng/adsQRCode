@@ -1,0 +1,6 @@
+framework module ADSQRCode {
+  umbrella header "ADSQRCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

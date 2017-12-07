@@ -1,0 +1,27 @@
+{
+  "name": "ADSQRCode",
+  "version": "0.1.0",
+  "summary": "A short description of ADSQRCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aidongsheng/adsQRCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aidongsheng": "coding_ai@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/aidongsheng/adsQRCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ADSQRCode/Classes/**/*.{h,m}",
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "AVFoundation"
+  ]
+}
